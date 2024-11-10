@@ -83,4 +83,4 @@ def mathQuiz():
     print(f"\nGame over! Your score is: {score}/{totalQuestions}")
 
 if __name__ == "__main__":
-    math_quiz()
+    mathQuiz()
