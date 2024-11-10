@@ -11,7 +11,7 @@ def getRandomInteger(min, max):
     Returns:
     int: A randomly generated integer within the specified range.
     """
-    return random.randint(min_value, max_value)
+    return random.randint(min, max)
 
 def getRandomOperator():
     """
